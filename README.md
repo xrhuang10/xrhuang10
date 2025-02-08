@@ -1,11 +1,11 @@
 <h1>About Me 👋🏻</h1> 
 <p>
-  Hi! I'm Xirui Huang, a Systems Design Engineering student at the University of Waterloo. I enjoy learning about physics and business, and I want to develop my software engineering skills.
+  Hi! I'm Xirui Huang, a Systems Design Engineering student at the University of Waterloo!
 </p>
 
 <h1>I’m Currently Learning 🌱 </h1>  
 <p>
-  I'm currently learning about Data Structures and Algorithms. Although I have only worked in front-end development, I hope to learn more about the back-end.
+  I'm currently learning about AI and Machine Learning. I have experience in regression / classification models, and I have worked with neural network basics, but I want to know more about image processing and computer vision. 
 </p>
 
 
