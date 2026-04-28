@@ -1,52 +1,25 @@
-# Xirui Huang (xrhuang10)
+# Xirui (xrhuang10)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/724772084992?v=4" alt="Xirui Huang" width="150"/>
 </p>
 
-### AI/ML Engineer & Systems Design Engineering Student at the University of Waterloo
+Hey, I am Xirui. I study Systems Design Engineering at Waterloo with the AI and intelligent systems side of the program. I like building things that actually ship, not slides that pretend they shipped.
 
-🔭 I’m currently interning as a Machine Learning Intern at Wisedocs  
-🌱 I’m learning advanced computer vision, LLM reasoning optimization, and cloud-native architectures  
-📝 I’m researching AVM segmentation with U-Net and optimizing LLM-based reasoning via Tree-of-Thought methods  
-💬 Ask me about AI/ML, Computer Vision, LLMs, and Data Engineering  
-⚡ Fun fact: I ran 5K in under 25 minutes and have played soccer for 10+ years!
+**School:** still here until 2027. cGPA is 3.93, Presidents and First in Class scholarships, Dean's list a few times. I still care more about what I ship next.
 
----
+**Work:** forward deployed AI / software eng intern at Sequence in NYC right now. Before that, ML intern at Wisedocs (LLMs on messy real world PDFs, Kubernetes, that kind of work). Also did a TPM style internship at Tesla in Austin on the Cybertruck battery line, lots of coordinating installs and chasing parts and vendors. Two totally different jobs, both were a good time.
 
-## ⚒️ Languages & Tools
+**Research:** I co authored SSDP, a Tree of Thoughts pruning method that trims a lot of useless branching and got about 2.3x speedups with big node cuts on reasoning benchmarks. It got into the NeurIPS Efficient Reasoning Workshop and got cited by people at DeepMind which still feels weird to type. I also worked at SickKids on 2D and 3D segmentation on MRI and CT for brain AVMs in kids, PyTorch and cluster jobs.
 
-| **Languages**           | **ML / CV / NLP**                                    | **DevOps / Cloud**                                                           | **Data / DB**                             |
-|-------------------------|------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------|
-| Python, C++, SQL, VBA   | PyTorch, TensorFlow, scikit-learn, MONAI, U-Net      | Docker, Kubernetes, AWS (S3, Lambda, DynamoDB, Rekognition), GCP            | Snowflake, PostgreSQL, ETL Pipelines, S3  |
+**Tools I actually use:** Python, PyTorch, LangChain, FastAPI, React and Next when I mess with UI, AWS and GCP, Postgres, Docker, Kubernetes.
 
----
+If you want the tidy bullet version of the same story: [LinkedIn](https://www.linkedin.com/in/xrhuang10)
 
-## 📂 Selected Projects
+Email: xrhuang10@gmail.com
 
-### [BrainTumorDetector](https://github.com/xrhuang10/BrainTumorDetector)
-- 2D U-Net segmentation for AVM and brain tumor detection from MRI/CT slices, achieving >80% accuracy on 1,000+ de-identified medical images
+I took the GitHub stats card off because it kept giving me a C and that was not helping anyone.
 
-### [DelayNoMore (Wat.AI)](https://github.com/xrhuang10/DelayNoMore)
-- Real-time TTC bus delay prediction using River’s ADWIN and Adaptive Random Forest; ROC-AUC >0.75 on 100k+ historical and streaming data
+Code I would actually show someone is usually pinned. Older repos are mostly school or messing around.
 
-### [Phomo](https://github.com/xrhuang10/phomo)
-- Serverless photo-sharing app built with AWS Lambda, API Gateway, and DynamoDB, featuring Rekognition-based face filtering and event-driven media visibility
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xrhuang10&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
-
-## 📫 Get in Touch
-
-- 📧 [xrhuang10@gmail.com](mailto:xrhuang10@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/xrhuang10)  
-- 🐦 [Twitter](https://twitter.com/xirui_huang)  
-
-_Last updated: 2025-07-27_
+_Last updated April 2026_
