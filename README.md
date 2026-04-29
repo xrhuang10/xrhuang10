@@ -27,7 +27,7 @@ I'm Xirui. I study Systems Design Engineering at Waterloo (AI / intelligent syst
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
 
 ## connect
-[LinkedIn](https://www.linkedin.com/in/xrhuang10) · xrhuang10@gmail.com
+[LinkedIn](https://www.linkedin.com/in/xrhuang10) · xrhuang10@gmail.com · [Resume (PDF)](https://drive.google.com/file/d/1J1JIJ0kX040SzNSq0ST2F_xZDDLyU6Rb/view?usp=sharing)
 
 Pinned repos are the ones I'd actually show someone.
 
