@@ -6,11 +6,11 @@
 I'm Xirui. I study Systems Design Engineering at Waterloo (AI / intelligent systems stream). I like building things that ship.
 
 ## highlights
-- Forward deployed AI software engineering intern @ Sequence (NYC)
-- Machine learning intern @ Wisedocs (LLMs on scanned PDFs, Kubernetes, prod services)
-- TPM style internship @ Tesla on the Cybertruck battery line (Austin)
-- Co author on SSDP, Tree of Thoughts pruning for faster LLM reasoning ([paper](https://arxiv.org/abs/2511.08595)), NeurIPS Efficient Reasoning Workshop, cited by DeepMind folks
-- ML research @ SickKids on brain AVM segmentation from MRI and CT (U-Net / V-Net)
+- Forward deployed AI software engineering intern @ Sequence, NYC · (LangChain, BigQuery, full stack product work, Databricks and Trigger.dev pipelines)
+- Machine learning intern @ Wisedocs, Toronto · (LLMs on scanned PDFs, Claude + structured JSON, FastAPI + Postgres, Kubernetes)
+- TPM style internship @ Tesla, Austin · (Cybertruck battery line, high speed vision upgrades on the line, RFQs and sourcing, herding engineers and vendors)
+- Co author on SSDP · (Tree of Thoughts pruning for faster LLM reasoning, [paper](https://arxiv.org/abs/2511.08595), NeurIPS Efficient Reasoning Workshop, DeepMind citations)
+- ML research @ SickKids, Toronto · (brain AVM segmentation from MRI and CT, U-Net and V-Net, PyTorch on hospital clusters)
 
 ## school
 - BASc Systems Design Engineering, AI option, University of Waterloo (grad Apr 2027)
