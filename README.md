@@ -3,10 +3,10 @@
 </p>
 
 ## hi
-I'm Xirui. I study Systems Design Engineering at Waterloo (AI / intelligent systems stream). I like building things that ship.
+I'm Xirui. I study Systems Design Engineering at Waterloo (AI / intelligent systems stream). I like building AI.
 
 ## highlights
-- Forward deployed AI software engineering intern @ Sequence, NYC · (LangChain, BigQuery, full stack product work, Databricks and Trigger.dev pipelines)
+- Forward deployed AI software engineering intern @ Sequence, NYC · (LangChain, BigQuery, full stack product work, Databricks, Auth0, and Trigger.dev pipelines)
 - Machine learning intern @ Wisedocs, Toronto · (LLMs on scanned PDFs, Claude + structured JSON, FastAPI + Postgres, Kubernetes)
 - TPM style internship @ Tesla, Austin · (Cybertruck battery line, high speed vision upgrades on the line, RFQs and sourcing, herding engineers and vendors)
 - Co author on SSDP · (Tree of Thoughts pruning for faster LLM reasoning, [paper](https://arxiv.org/abs/2511.08595), NeurIPS Efficient Reasoning Workshop, DeepMind citations)
